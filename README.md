@@ -8,13 +8,13 @@ Download the project, navigate to the project root, and run:
 sbt run
 ```
 
-Directed Acylic Graphs (DAGs)
+Directed Acyclic Graphs (DAGs)
 =============================
 
 _Finding all paths in a graph_
 
-The sample input file `in-path.txt` contains the number of nodes and the 
-edges (the rest of the lines):
+The sample input file `in-path.txt` contains the number of nodes (the 
+first line) and the edges (the rest of the lines):
 
 ```shell
 6
