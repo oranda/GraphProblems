@@ -1,0 +1,17 @@
+# IntelliJ
+/.idea/
+*.iml
+
+# sbt
+build.properties
+
+# sbt generated
+/project/target/
+/target/
+/src/target/
+
+# Mac files
+.DS_Store
+
+# Java class files
+*.class
